@@ -43,4 +43,13 @@ body {
 		width:100vh;
 		
 	}
+	.col-3{
+		height:50vh;
+		width:100vh;
+	}
+	.col-4{
+		height:50vh;
+		width:100vh;
+	}
+	
 }
