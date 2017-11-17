@@ -16,21 +16,30 @@ body {
 	height:100vh;
 	width:50vw;
 	display:flex;
-	background-color:pink;
+	background-color:black;
 	
 }
 .box3{
-	height:10vh;
+	height:20vh;
 	width:100vw;
 	display:flex;
 	background-color:red;
 	
 }
-.black{
-	height:47vh;
-	width:22vw;
-	background-color:black;
+
+.white{
+	height:44vh;
+	width:20vw;
+	background-color:white;
+	margin:50px;
 }
+.white2{
+	height:44vh;
+	width:20vw;
+	background-color:white;
+	margin:auto;
+}
+
 a {
 	color:black;
 	margin:auto;
@@ -51,5 +60,3 @@ a {
 		width:100vh;
 		
 }
-	
-	
