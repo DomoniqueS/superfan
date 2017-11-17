@@ -6,7 +6,7 @@ body {
 	background-color:white;
 }
 .col-1 {
-	height:20vh;
+	height:13vh;
 	width:100vw;
 	display:block;
 	background-color:black;
@@ -18,23 +18,22 @@ h1 {
 	
 }
 .col-2{
-	height:100vh;
+	height:55vh;
 	width:100vw;
 	display:block;
-	background-color:;
-	backgroung-image:url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiE1bG8lMTXAhUM72MKHZkYCOkQjRwIBw&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26cad%3Drja%26uact%3D8%26ved%3D0ahUKEwiE1bG8lMTXAhUM72MKHZkYCOkQjRwIBw%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DHkMq1n4GksQ%26psig%3DAOvVaw3Ch9rEO4Ii95O7XqHMLfhz%26ust%3D1510956129941173&psig=AOvVaw3Ch9rEO4Ii95O7XqHMLfhz&ust=1510956129941173);
+	background-color:orange;
 }
 
 .col-3 {
 	height:50vh;
 	width:50vw;
 	display:flex;
-	background-color:red;
 }
 .col-4 {
 	height:50vh;
 	width:50vw;
 	display:flex;
+	content:url("deathrow.jpg");
 	background-color:blue;
 }
 
