@@ -26,6 +26,19 @@ body {
 	background-color:red;
 	
 }
+.white{
+	height:44vh;
+	width:20vw;
+	background-color:white;
+	margin:50px;
+}
+.white2{
+	height:44vh;
+	width:20vw;
+	background-color:white;
+	margin:auto;
+}
+
 a {
 	color:black;
 	margin:auto;
