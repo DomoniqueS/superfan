@@ -27,17 +27,33 @@ body {
 	
 }
 
-.white{
-	height:44vh;
+.white1{
+	height:30vh;
 	width:20vw;
 	background-color:white;
 	margin:50px;
+	content:url("digital-underground.jpg");
+	
+	
+}
+.dg {
+	content:url("youngtupac.jpg");
 }
 .white2{
+	height:30vh;
+	width:20vw;
+	background-color:white;
+	margin:50px;
+	content:url("juice.jpg");
+	
+	
+}
+.white3{
 	height:44vh;
 	width:20vw;
 	background-color:white;
-	margin:auto;
+
+	
 }
 
 a {
