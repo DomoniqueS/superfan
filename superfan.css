@@ -24,6 +24,8 @@ body {
 	height:47vh;
 	width:39vw;
 	display:flex;
+	background-color:black;	
+
 	
 }
 .col-4 {
@@ -38,7 +40,7 @@ body {
 	height:40vh;
 	width:100vw;
 	display:block;
-	
+	background-color:white;	
 }
 
 @media screen and (max-width: 700px){
