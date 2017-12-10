@@ -15,19 +15,19 @@ body {
 }
 .col-2 {
 	height:47vh;
-	width:40vw;
+	width:30vw;
 	display:flex;
 	background-color:green;
 }
 .col-3 {
 	height:47vh;
-	width:30vw;
+	width:20vw;
 	display:flex;
 	
 }
 .col-4 {
 	height:47vh;
-	width:40vw;
+	width:30vw;
 	display:flex;
 	background-color:black;	
 }
