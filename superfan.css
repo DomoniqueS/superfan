@@ -31,7 +31,8 @@ body {
 	width:31vw;
 	display:flex;
 	background-color:black;	
-	
+	content:url("");
+
 }
 .col-5 {
 	height:40vh;
