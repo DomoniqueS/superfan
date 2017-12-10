@@ -16,9 +16,23 @@ body {
 .col-2 {
 	height:47vh;
 	width:30vw;
-	display:block;
+	display:flex;
 	background-color:green;
-	margin:40%;
+	
+}
+.side-1 {
+	height:47vh;
+	width:30vw;
+	display:flex;
+	background-color:blue;
+	
+}
+.side-2 {
+	height:47vh;
+	width:30vw;
+	display:flex;
+	background-color:orange;
+	
 }
 .col-3 {
 	height:40vh;
