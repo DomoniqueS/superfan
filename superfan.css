@@ -13,13 +13,14 @@ body {
 	background-color:red;
 
 }
-.col-3 {
+.col-2 {
 	height:47vh;
 	width:30vw;
 	display:block;
 	background-color:green;
+	margin:50%;
 }
-.col-4 {
+.col-3 {
 	height:40vh;
 	width:100vw;
 	display:block;
