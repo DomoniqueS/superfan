@@ -25,6 +25,12 @@ body {
 	display:flex;
 	background-color:green;
 }
+.col-4 {
+	height:47vh;
+	width:50vw;
+	display:block;
+	background-color:pink;
+}
 
 @media screen and (max-width: 700px){
 	.col-1{
@@ -41,5 +47,8 @@ body {
 		height:50vh;
 		width:100vh;
 	}
-	
+	.col-4{
+		height:50vh;
+		width:100vh;
+	}
 }
