@@ -3,14 +3,16 @@ body {
 	width:100vw;
 	display:flex;
 	flex-wrap:wrap;
-	background-image:url("https://user-images.githubusercontent.com/28358543/33809197-e8e29f3a-dda7-11e7-886b-e640fcf97766.jpeg");
+	background-color:white;
 }
-.col-1 {
+	
+.col-1{
 	height:47vh;
 	width:30vw;
 	display:block;
 	background-color:green;
-	
+}
+
 audio{
 	
 }
