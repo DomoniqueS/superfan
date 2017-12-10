@@ -10,8 +10,7 @@ body {
 	width:30vw;
 	display:flex;
 	background-color:green;
-	content:url("https://user-images.githubusercontent.com/28358543/32973244-3c59a8d4-cbab-11e7-9e1b-30a7697d31e5.jpg");
-}
+	
 audio{
 	
 }
@@ -21,7 +20,8 @@ audio{
 	height:47vh;
 	width:30vw;
 	display:flex;
-	background-image:url("https://user-images.githubusercontent.com/28358543/32973244-3c59a8d4-cbab-11e7-9e1b-30a7697d31e5.jpg");
+	background-color:purple;
+	
 }
 .col-3 {
 	height:47vh;
@@ -35,10 +35,8 @@ audio{
 	height:47vh;
 	width:31vw;
 	display:flex;
-	background-color:black;	
-	content:url("https://user-images.githubusercontent.com/28358543/32973045-4f56dbc4-cbaa-11e7-9283-f6f81dc809e3.jpg");
-
-}
+	background-color:blue;	
+	
 .col-5 {
 	height:40vh;
 	width:100vw;
