@@ -7,7 +7,7 @@ body {
 }
 
 .col-1 {
-	height:50vh;
+	height:30vh;
 	width:100vw;
 	display:flex;
 	background-color:red;
@@ -26,7 +26,7 @@ body {
 	background-color:green;
 }
 .col-4 {
-	height:50vh;
+	height:40vh;
 	width:100vw;
 	display:block;
 	background-color:purple;
