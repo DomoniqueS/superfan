@@ -18,25 +18,26 @@ body {
 	width:30vw;
 	display:flex;
 	background-color:green;
-	float:center;
 	
-}
-.side-1 {
-	height:47vh;
-	width:30vw;
-	display:flex;
-	background-color:blue;
-	float:left;
-	
-}
-.side-2 {
-	height:47vh;
-	width:30vw;
-	display:flex;
-	background-color:orange;
 	
 }
 .col-3 {
+	height:47vh;
+	width:30vw;
+	display:flex;
+	background-color:yellow;
+	
+	
+}
+.col-4 {
+	height:47vh;
+	width:30vw;
+	display:flex;
+	background-color:black;
+	
+	
+}
+.col-5 {
 	height:40vh;
 	width:100vw;
 	display:block;
@@ -55,6 +56,14 @@ body {
 		
 	}
 	.col-3{
+		height:50vh;
+		width:100vh;
+	}
+	.col-4{
+		height:50vh;
+		width:100vh;
+	}
+	.col-5{
 		height:50vh;
 		width:100vh;
 	}
