@@ -3,8 +3,7 @@ body {
 	width:100vw;
 	display:flex;
 	flex-wrap:wrap;
-	background-color:white;
-	content:url("https://user-images.githubusercontent.com/28358543/33688374-024e8882-da90-11e7-8823-7f59b33475ab.png");
+	background-image:url("https://user-images.githubusercontent.com/28358543/33688374-024e8882-da90-11e7-8823-7f59b33475ab.png");
 }
 h1{
 	font-size:50px;
