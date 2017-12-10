@@ -1,3 +1,3 @@
-function 2pac(elem){
-document.getElementById("audio").play();
+function 2pacldl(elem){
+document.getElementById("video").play();
 }
