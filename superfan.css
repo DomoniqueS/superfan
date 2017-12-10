@@ -18,6 +18,7 @@ body {
 	width:30vw;
 	display:flex;
 	background-color:green;
+	float:center;
 	
 }
 .side-1 {
@@ -25,6 +26,7 @@ body {
 	width:30vw;
 	display:flex;
 	background-color:blue;
+	float:left;
 	
 }
 .side-2 {
