@@ -19,21 +19,21 @@ body {
 	background-color:green;
 }
 
-.col-4 {
+.col-3 {
 	height:47vh;
 	width:39vw;
 	display:block;
 	background-color:orange;	
 
 }
-.col-5 {
+.col-4 {
 	height:47vh;
 	width:31vw;
 	display:block;
 	background-color:blue;	
 }
 	
-.col-6 {
+.col-5 {
 	height:40vh;
 	width:100vw;
 	display:block;
