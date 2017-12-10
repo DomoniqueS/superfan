@@ -8,7 +8,7 @@ body {
 .col-1 {
 	height:47vh;
 	width:30vw;
-	display:flex;
+	display:block;
 	background-color:green;
 	
 audio{
@@ -26,7 +26,7 @@ audio{
 .col-3 {
 	height:47vh;
 	width:39vw;
-	display:flex;
+	display:block;
 	background-color:black;	
 
 	
@@ -34,7 +34,7 @@ audio{
 .col-4 {
 	height:47vh;
 	width:31vw;
-	display:flex;
+	display:block;
 	background-color:blue;	
 	
 .col-5 {
