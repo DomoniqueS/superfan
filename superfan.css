@@ -21,9 +21,9 @@ body {
 
 }
 .col-3 {
-	height:47vh;
-	width:30vw;
-	display:flex;
+	height:40vh;
+	width:100vw;
+	display:block;
 	background-color:pink;
 	
 }
