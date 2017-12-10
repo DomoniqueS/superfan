@@ -24,14 +24,14 @@ body {
 	height:47vh;
 	width:30vw;
 	display:flex;
-	background-color:purple;
+	background-color:pink;
 	
 }
 .col-4 {
 	height:47vh;
 	width:39vw;
 	display:block;
-	background-color:black;	
+	background-color:orange;	
 
 	
 }
@@ -45,7 +45,7 @@ body {
 	height:40vh;
 	width:100vw;
 	display:block;
-	background-color:white;	
+	background-color:yellow;	
 }
 
 @media screen and (max-width: 700px){
