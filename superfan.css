@@ -5,38 +5,26 @@ body {
 	flex-wrap:wrap;
 	background-color:white;
 }
-}
-h1 {
-	text-align:center;
-}
-p1 {
-	background-color:red;
-	height:23vh;
-	font-size:200%
-}
+
 .col-1 {
 	height:50vh;
 	width:100vw;
-	display:block;
-	content:url("https://user-images.githubusercontent.com/28358543/33688374-024e8882-da90-11e7-8823-7f59b33475ab.png");
-}
+	display:flex;
+	background-color:red;
 
+}
 .col-2 {
 	height:47vh;
 	width:50vw;
 	display:flex;
-	background-color:red;
+	background-color:blue;
 }
 .col-3 {
 	height:47vh;
 	width:50vw;
 	display:flex;
-	background-color:red;
+	background-color:green;
 }
-a {
-	margin:auto;
-}
-
 
 @media screen and (max-width: 700px){
 	.col-1{
@@ -50,10 +38,6 @@ a {
 		
 	}
 	.col-3{
-		height:50vh;
-		width:100vh;
-	}
-	.col-4{
 		height:50vh;
 		width:100vh;
 	}
