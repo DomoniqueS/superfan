@@ -41,8 +41,8 @@ body {
 	background-color:purple;
 }
 
-.p1 {
-	Size:40px;
+p1 {
+	Size:50px;
 	color:black;
 }
 @media screen and (max-width: 700px){
