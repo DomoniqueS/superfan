@@ -21,7 +21,7 @@ body {
 }
 .col-3 {
 	height:47vh;
-	width:20vw;
+	width:38vw;
 	display:flex;
 	
 }
@@ -30,7 +30,7 @@ body {
 	width:30vw;
 	display:flex;
 	background-color:black;	
-	float:right;
+	
 }
 .col-5 {
 	height:40vh;
