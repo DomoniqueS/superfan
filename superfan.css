@@ -5,12 +5,15 @@ body {
 	flex-wrap:wrap;
 	background-color:white;
 }
-
+h1{
+	font-size:50px;
+	color:red;
+}
 .col-1 {
 	height:30vh;
 	width:100vw;
 	display:flex;
-	background-color:red;
+
 
 }
 .col-2 {
