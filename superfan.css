@@ -5,22 +5,28 @@ body {
 	flex-wrap:wrap;
 	background-image:url("https://user-images.githubusercontent.com/28358543/33688374-024e8882-da90-11e7-8823-7f59b33475ab.png");
 }
-
+.col-1 {
+	height:47vh;
+	width:30vw;
+	display:flex;
+	background-color:green;
+	content:url("https://user-images.githubusercontent.com/28358543/32973244-3c59a8d4-cbab-11e7-9e1b-30a7697d31e5.jpg");
+}
 
 }
-.col-1 {
+.col-2 {
 	height:47vh;
 	width:30vw;
 	display:flex;
 	background-image:url("https://user-images.githubusercontent.com/28358543/32973244-3c59a8d4-cbab-11e7-9e1b-30a7697d31e5.jpg");
 }
-.col-2 {
+.col-3 {
 	height:47vh;
 	width:39vw;
 	display:flex;
 	
 }
-.col-3{
+.col-4 {
 	height:47vh;
 	width:31vw;
 	display:flex;
@@ -28,7 +34,7 @@ body {
 	content:url("https://user-images.githubusercontent.com/28358543/32973045-4f56dbc4-cbaa-11e7-9283-f6f81dc809e3.jpg");
 
 }
-.col-4 {
+.col-5 {
 	height:40vh;
 	width:100vw;
 	display:block;
@@ -51,6 +57,10 @@ body {
 		width:100vh;
 	}
 	.col-4{
+		height:50vh;
+		width:100vh;
+	}
+	.col-5 {
 		height:50vh;
 		width:100vh;
 	}
