@@ -13,16 +13,10 @@ body {
 	background-color:red;
 
 }
-.col-2 {
-	height:47vh;
-	width:50vw;
-	display:flex;
-	background-color:blue;
-}
 .col-3 {
 	height:47vh;
 	width:30vw;
-	display:flex;
+	display:block;
 	background-color:green;
 }
 .col-4 {
@@ -44,10 +38,6 @@ body {
 		
 	}
 	.col-3{
-		height:50vh;
-		width:100vh;
-	}
-	.col-4{
 		height:50vh;
 		width:100vh;
 	}
