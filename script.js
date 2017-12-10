@@ -1,3 +1,3 @@
-function dg(elem){
-document.getElementById("dg").classList.toggle("dg");
+function youngtupac(elem){
+document.getElementById("audio").play();
 }
