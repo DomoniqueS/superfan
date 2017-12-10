@@ -5,32 +5,22 @@ body {
 	flex-wrap:wrap;
 	background-image:url("https://user-images.githubusercontent.com/28358543/33688374-024e8882-da90-11e7-8823-7f59b33475ab.png");
 }
-h1{
-	font-size:50px;
-	color:red;
-	margin:auto;
+
+
 }
 .col-1 {
-	height:30vh;
-	width:100vw;
-	display:flex;
-
-
-}
-.col-2 {
 	height:47vh;
 	width:30vw;
 	display:flex;
-	background-color:green;
-	content:url("https://user-images.githubusercontent.com/28358543/32973244-3c59a8d4-cbab-11e7-9e1b-30a7697d31e5.jpg");
+	background-image:url("https://user-images.githubusercontent.com/28358543/32973244-3c59a8d4-cbab-11e7-9e1b-30a7697d31e5.jpg");
 }
-.col-3 {
+.col-2 {
 	height:47vh;
 	width:39vw;
 	display:flex;
 	
 }
-.col-4 {
+.col-3{
 	height:47vh;
 	width:31vw;
 	display:flex;
@@ -38,17 +28,13 @@ h1{
 	content:url("https://user-images.githubusercontent.com/28358543/32973045-4f56dbc4-cbaa-11e7-9283-f6f81dc809e3.jpg");
 
 }
-.col-5 {
+.col-4 {
 	height:40vh;
 	width:100vw;
 	display:block;
 	
 }
 
-p1 {
-	Size:50px;
-	color:black;
-}
 @media screen and (max-width: 700px){
 	.col-1{
 		height:50vh;
@@ -68,8 +54,3 @@ p1 {
 		height:50vh;
 		width:100vh;
 	}
-	.col-5{
-		height:50vh;
-		width:100vh;
-	}
-}
