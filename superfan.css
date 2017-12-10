@@ -21,7 +21,7 @@ body {
 }
 .col-3 {
 	height:47vh;
-	width:50vw;
+	width:30vw;
 	display:flex;
 	background-color:green;
 }
