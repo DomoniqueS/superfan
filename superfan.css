@@ -30,6 +30,7 @@ body {
 	width:30vw;
 	display:flex;
 	background-color:black;	
+	float:right;
 }
 .col-5 {
 	height:40vh;
