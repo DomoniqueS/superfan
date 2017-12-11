@@ -5,13 +5,19 @@ body {
 	flex-wrap:wrap;
 	background-color:white;
 }
-.opacity{
-	opacity: 0.3;
+image:hover {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
 }
 .col-1{
 	height:50vh;
 	width:100vw;
 	display:flex;
+	image:hover;
 	content:url("https://user-images.githubusercontent.com/28358543/33688374-024e8882-da90-11e7-8823-7f59b33475ab.png");
 }
 	
