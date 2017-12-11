@@ -3,21 +3,20 @@ body {
 	width:100vw;
 	display:flex;
 	flex-wrap:wrap;
-	background-image:url("https://user-images.githubusercontent.com/28358543/33809197-e8e29f3a-dda7-11e7-886b-e640fcf97766.jpg");
+	background-color:white;
 }
 .col-1{
 	height:50vh;
 	width:100vw;
 	display:flex;
-	
+	content:("");
 }
 	
 .col-2{
 	height:47vh;
 	width:30vw;
 	display:block;
-	
-	
+	content:("");
 }
 
 .col-3 {
@@ -32,14 +31,14 @@ body {
 	height:47vh;
 	width:31vw;
 	display:block;
-		
+	content:("");	
 }
 	
 .col-5 {
 	height:40vh;
 	width:100vw;
 	display:block;
-		
+	content:("");	
 }
 
 @media screen and (max-width: 700px){
