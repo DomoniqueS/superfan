@@ -9,14 +9,14 @@ body {
 	height:50vh;
 	width:100vw;
 	display:flex;
-	content:("https://user-images.githubusercontent.com/28358543/33688374-024e8882-da90-11e7-8823-7f59b33475ab.png");
+	content:url("https://user-images.githubusercontent.com/28358543/33688374-024e8882-da90-11e7-8823-7f59b33475ab.png");
 }
 	
 .col-2{
 	height:47vh;
 	width:30vw;
 	display:block;
-	content:("");
+	content:url("");
 }
 
 .col-3 {
@@ -31,14 +31,14 @@ body {
 	height:47vh;
 	width:31vw;
 	display:block;
-	content:("");	
+	content:url("");	
 }
 	
 .col-5 {
 	height:40vh;
 	width:100vw;
 	display:block;
-	content:("");	
+	content:url("");	
 }
 
 @media screen and (max-width: 700px){
