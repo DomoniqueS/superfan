@@ -5,6 +5,9 @@ body {
 	flex-wrap:wrap;
 	background-color:white;
 }
+.opacity{
+	opacity: 0.3;
+}
 .col-1{
 	height:50vh;
 	width:100vw;
