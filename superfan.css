@@ -7,23 +7,16 @@ body {
 }
 
 .col-1 {
-	height:50vh;
-	width:100vw;
-	display:block;
-	
+	height:47vh;
+	width:50vw;
+	display:flex;
+	background-color:white;
 }
-
 .col-2 {
 	height:47vh;
 	width:50vw;
 	display:flex;
-	background-color:red;
-}
-.col-3 {
-	height:47vh;
-	width:50vw;
-	display:flex;
-	background-color:red;
+	background-color:white;
 }
 
 @media screen and (max-width: 700px){
@@ -37,10 +30,6 @@ body {
 		width:100vh;
 		
 	}
-	.col-3{
-		height:50vh;
-		width:100vh;
-	}
-
+	
 	
 }
