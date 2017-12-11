@@ -3,20 +3,20 @@ body {
 	width:100vw;
 	display:flex;
 	flex-wrap:wrap;
-	background-image:;
+	background-image:("https://user-images.githubusercontent.com/28358543/33809197-e8e29f3a-dda7-11e7-886b-e640fcf97766.jpg");
 }
 .col-1{
 	height:50vh;
 	width:100vw;
 	display:flex;
-	background-color:black;
+	
 }
 	
 .col-2{
 	height:47vh;
 	width:30vw;
 	display:block;
-	background-color:green;
+	
 	
 }
 
@@ -32,14 +32,14 @@ body {
 	height:47vh;
 	width:31vw;
 	display:block;
-	background-color:blue;	
+		
 }
 	
 .col-5 {
 	height:40vh;
 	width:100vw;
 	display:block;
-	background-color:yellow;	
+		
 }
 
 @media screen and (max-width: 700px){
