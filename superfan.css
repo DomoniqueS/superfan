@@ -5,48 +5,26 @@ body {
 	flex-wrap:wrap;
 	background-color:white;
 }
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
-.col-1{
+
+.col-1 {
 	height:50vh;
 	width:100vw;
-	display:flex;
-	content:url("https://user-images.githubusercontent.com/28358543/33688374-024e8882-da90-11e7-8823-7f59b33475ab.png");
-}
-	
-.col-2{
-	height:47vh;
-	width:30vw;
 	display:block;
-	content:url("https://user-images.githubusercontent.com/28358543/32973244-3c59a8d4-cbab-11e7-9e1b-30a7697d31e5.jpg");
+	content:url("badboy.png");
+	cursor: pointer;
 }
 
+.col-2 {
+	height:47vh;
+	width:50vw;
+	display:flex;
+	background-color:red;
+}
 .col-3 {
 	height:47vh;
-	width:39vw;
-	display:block;
-	background-color:orange;
-	audio:2pacll.mp3;
-
-}
-.col-4 {
-	height:47vh;
-	width:31vw;
-	display:block;
-	content:url("https://user-images.githubusercontent.com/28358543/32973244-3c59a8d4-cbab-11e7-9e1b-30a7697d31e5.jpg");	
-}
-	
-.col-5 {
-	height:40vh;
-	width:100vw;
-	display:block;
-	content:url("https://user-images.githubusercontent.com/28358543/33809197-e8e29f3a-dda7-11e7-886b-e640fcf97766.jpeg");	
+	width:50vw;
+	display:flex;
+	background-color:red;
 }
 
 @media screen and (max-width: 700px){
@@ -64,12 +42,6 @@ body {
 		height:50vh;
 		width:100vh;
 	}
-	.col-4{
-		height:50vh;
-		width:100vh;
-	}
+
 	
-	.col-5 {
-		height:50vh;
-		width:100vh;
-	}
+}
