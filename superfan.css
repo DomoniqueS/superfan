@@ -18,13 +18,7 @@ body {
 	height:47vh;
 	width:50vw;
 	display:flex;
-	background-color:red;
-}
-.col-3 {
-	height:47vh;
-	width:50vw;
-	display:flex;
-	background-color:red;
+	
 }
 
 @media screen and (max-width: 700px){
