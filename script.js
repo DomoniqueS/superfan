@@ -1,24 +1,24 @@
 !This function will allow the viewer to play music when they click on an image!
-function playsong(e){
+function playsong1(e){
   document.getElementById("badboy").play();
   document.getElementById("bigpoppa").pause();
   document.getElementById("hypnotize").pause();
-  document.getElementById("badboy").pause();
+  document.getElementById("momoney").pause();
 }
-function playsong(e){
+function playsong2(e){
   document.getElementById("bigpoppa").play();
   document.getElementById("badboy").pause();
   document.getElementById("hypnotize").pause();
-  document.getElementById("badboy").pause();
+  document.getElementById("momoney").pause();
 }
-function playsong(e){
+function playsong3(e){
   document.getElementById("hynotize").play();
   document.getElementById("badboy").pause();
   document.getElementById("bigpoppa").pause();
-  document.getElementById("").pause();
+  document.getElementById("momoney").pause();
 }
-function playsong(e){
-  document.getElementById("").play();
+function playsong4(e){
+  document.getElementById("momoney").play();
   document.getElementById("badboy").pause();
   document.getElementById("bigpoppa").pause();
   document.getElementById("hypnotize").pause();
