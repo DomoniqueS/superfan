@@ -3,20 +3,36 @@ body {
 	width:100vw;
 	display:flex;
 	flex-wrap:wrap;
-	background-image:url("https://user-images.githubusercontent.com/28358543/33841118-a4312e7a-de4b-11e7-8485-f563c8d5257e.png");
+	background-image:url("badboy.png");
+}
+p1{
+	font-size:50px;
+	color:red;
+	
+}
+p2{
+	font-size:50px;
+	color:red;
+	font:
+}
+.col-1 {
+	height:50vh;
+	width:100vw;
+	display:block;
 }
 
-.col-1 {
-	height:47vh;
-	width:50vw;
-	display:flex;
-	background-color:white;
-}
 .col-2 {
-	height:47vh;
+	height:26vh;
 	width:50vw;
 	display:flex;
-	background-color:white;
+	background-color:red;
+	
+}
+.col-3 {
+	height:26vh;
+	width:48vw;
+	display:flex;
+	background-color:red;
 }
 
 @media screen and (max-width: 700px){
@@ -26,10 +42,13 @@ body {
 		
 	}
 	.col-2{
-		height:50vh;
+		height:20vh;
 		width:100vh;
 		
 	}
-	
+	.col-3{
+		height:20vh;
+		width:100vh;
+	}
 	
 }
