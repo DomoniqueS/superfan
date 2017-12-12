@@ -15,6 +15,10 @@ p2{
 	color:red;
 	font:
 }
+li a:hover {
+    background-color: #707070;
+	opacity: 0.9;
+}
 .col-1 {
 	height:50vh;
 	width:100vw;
