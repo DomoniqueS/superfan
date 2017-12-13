@@ -5,12 +5,12 @@ function playsong1(e){
   document.getElementById("momoney").pause();
 }
 function playsong2(e){
-  document.getElementById("poppa").play();
   document.getElementById("badboy").pause();
   document.getElementById("hypnotize").pause();
   document.getElementById("momoney").pause();
 }
 function playsong3(e){
+  document.getElementById("poppa").play();
   document.getElementById("badboy").pause();
   document.getElementById("poppa").pause();
   document.getElementById("momoney").pause();
