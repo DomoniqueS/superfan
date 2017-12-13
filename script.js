@@ -11,7 +11,6 @@ function playsong2(e){
   document.getElementById("momoney").pause();
 }
 function playsong3(e){
-  document.getElementById("hynotize").play();
   document.getElementById("badboy").pause();
   document.getElementById("bigpoppa").pause();
   document.getElementById("momoney").pause();
