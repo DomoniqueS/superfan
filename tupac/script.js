@@ -1,4 +1,4 @@
-
+<--!Malakhye, Eric, Alex, Maya, Koby--!>
 function playsong1(e){
 	<!--This code allows you to click on an image and the image will play a song--!>
 	document.getElementById("badboy").play();
