@@ -16,6 +16,7 @@ p1{
 	width:100vw;
 	display:block;
 	justify-content:center;
+	cursor:pointer;
 }
 
 .col-2 {
@@ -23,25 +24,28 @@ p1{
 	width:50vw;
 	display:flex;
 	justify-content:center;
-	
+	cursor:pointer;
 }
 .col-3 {
 	height:26vh;
 	width:50vw;
 	display:flex;
 	justify-content:center;
+	cursor:pointer;
 }
 .col-4 {
 	height:26vh;
 	width:50vw;
 	display:flex;
 	justify-content:center;
+	cursor:pointer;
 }
 .col-5 {
 	height:26vh;
 	width:50vw;
 	display:flex;
 	justify-content:center;
+	cursor:pointer;
 }
 
 @media screen and (max-width: 700px){
