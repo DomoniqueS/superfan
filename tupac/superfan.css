@@ -18,6 +18,9 @@ p1{
 	justify-content:center;
 	cursor:pointer;
 }
+.col-1:hover {
+	opacity: 0.5;
+}
 
 .col-2 {
 	height:26vh;
@@ -26,12 +29,18 @@ p1{
 	justify-content:center;
 	cursor:pointer;
 }
+.col-2:hover {
+	opacity: 0.5;
+}
 .col-3 {
 	height:26vh;
 	width:50vw;
 	display:flex;
 	justify-content:center;
 	cursor:pointer;
+}
+.col-3:hover {
+	opacity: 0.5;
 }
 .col-4 {
 	height:26vh;
@@ -40,6 +49,9 @@ p1{
 	justify-content:center;
 	cursor:pointer;
 }
+.col-4:hover {
+	opacity: 0.5;
+}
 .col-5 {
 	height:26vh;
 	width:50vw;
@@ -47,7 +59,9 @@ p1{
 	justify-content:center;
 	cursor:pointer;
 }
-
+.col-5:hover {
+	opacity: 0.5;
+}
 @media screen and (max-width: 700px){
 	.col-1{
 		height:50vh;
