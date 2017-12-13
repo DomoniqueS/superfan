@@ -1,6 +1,6 @@
-<!--Malakhye, Eric, Alex, Maya, Koby--!>
+<!--Malakhye, Eric, Alex, Maya, Koby-->
 function playsong1(e){
-	<!--This code allows you to click on an image and the image will play a song--!>
+	<!--This code allows you to click on an image and the image will play a song-->
 	document.getElementById("badboy").play();
 	document.getElementById("bigpoppa2").pause();
 	document.getElementById("hypnotize").pause();
