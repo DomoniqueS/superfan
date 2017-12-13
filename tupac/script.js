@@ -40,17 +40,12 @@ function playsong7(e){
 	document.getElementById("headup").play();
 	document.getElementById("livediela").pause();
 	document.getElementById("aintmad").pause();
-	document.getElementById("doforlove").pause();
+	document.getElementById("baby").pause();
 	
 }
 function playsong8(e){
 	document.getElementById("baby").play();
 	document.getElementById("livediela").pause();
 	document.getElementById("aintmad").pause();
-	document.getElementById("doforlove").pause();
 	document.getElementById("headup").pause();
-}
-function notoriousmovie(e){
-	document.getElementById("notorious").play();
-	
 }
