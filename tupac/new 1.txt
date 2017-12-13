@@ -1,0 +1,111 @@
+<video id="tv5" width="186" height="140" preload="auto" loop="">
+				<source src="media/tv/wwii-trim2.mp4" type="video/mp4">
+				<source src="media/tv/wwii-trim2.oggtheora.ogv" type="video/ogg">
+				<source src="media/tv/wwii-trim2.webmhd.webm" type="video/webm">
+			</video>
+			<source src="media/tv/wwii-trim2.mp4" type="video/mp4">
+			<source src="media/tv/wwii-trim2.oggtheora.ogv" type="video/ogg">
+			<source src="media/tv/wwii-trim2.webmhd.webm" type="video/webm">
+			<video id="tv5" width="186" height="140" preload="auto" loop="">
+				<source src="media/tv/wwii-trim2.mp4" type="video/mp4">
+				<source src="media/tv/wwii-trim2.oggtheora.ogv" type="video/ogg">
+				<source src="media/tv/wwii-trim2.webmhd.webm" type="video/webm">
+			</video>
+			<canvas id="canvasBG" width="1200" height="800" style="background:#000"></canvas>
+			<canvas id="canvasM1" width="350" height="330"></canvas>
+			<canvas id="canvasM2" width="1000" height="443"></canvas>
+			<canvas id="canvasM3" width="270" height="550"></canvas>
+			<canvas id="canvasTV" width="175" height="140"></canvas>
+			<canvas id="canvasFG" width="1200" height="800"></canvas>
+			<canvas id="canvasTransition" width="1200" height="800"></canvas>
+			<canvas id="canvasVT" width="1200" height="800"></canvas>
+			<canvas id="canvasMenu" width="1200" height="800"></canvas>
+			<canvas id="canvasC" width="1200" height="800"></canvas>
+			<img id="loadingScreen" src="images/LoadingScreen-5.gif" width="1200" height="800" style="visibility: hidden; display: none;">
+			<div id="frame"></div>
+			<div id="gameo">
+			<!-- GET THIS VIDEO TO START NOT AT 1 -->
+			<audio id="song" src="media/01Manipulator.mp3" type="video/mp3" preload="auto"></audio>
+			
+			<video id="video1" width="350" height="330" preload="auto">
+				<source src="media/ty_sit.mp4" type="video/mp4">
+				<source src="media/ty_sit.oggtheora.ogv" type="video/ogg">
+				<source src="media/ty_sit.webmhd.webm" type="video/webm">
+			</video>
+			<video id="video2" width="1280" height="720" preload="auto">
+				<source src="media/ty_face.mp4" type="video/mp4">
+				<source src="media/ty_face.oggtheora.ogv" type="video/ogg">
+				<source src="media/ty_face.webmhd.webm" type="videowebm">
+			</video>
+			<video id="video3" width="760" height="428" preload="auto">
+				<source src="media/ty_stand_flatrim.mp4" type="video/mp4">
+				<source src="media/ty_stand_flatrim.oggtheora.ogv" type="video/ogg">
+				<source src="media/ty_stand_flatrim.webmhd.webm" type="video/webm">
+			</video>
+			
+			<!-- END TRANSITION VIDEO -->
+			<video id="videoFist" width="1422" height="800" preload="auto">
+				<source src="media/FistWipe.mp4" type="video/mp4">
+				<source src="media/FistWipe.oggtheora.ogv" type="video/ogg">
+				<source src="media/FistWipe.webmhd.webm" type="video/webm">
+			</video>
+			
+			<!-- VIDEOS TO PLAY ON THE TV -->
+			<video id="tv1" width="186" height="140" preload="auto" loop="">
+				<source src="media/tv/boop-trim.mp4" type="video/mp4">
+				<source src="media/tv/boop-trim.oggtheora.ogv" type="video/ogg">
+				<source src="media/tv/boop-trim.webmhd.webm" type="webm">
+			</video>
+			
+			<video id="tv2" width="186" height="140" preload="auto" loop="">
+				<source src="media/tv/felix-trim2.mp4" type="video/mp4">
+				<source src="media/tv/felix-trim2.oggtheora.ogv" type="video/ogg">
+				<source src="media/tv/felix-trim2.webmhd.webm" type="video/webm">
+			</video>
+			
+			<video id="tv3" width="186" height="140" preload="auto" loop="">
+				<source src="media/tv/heart-trim.mp4" type="video/mp4">
+				<source src="media/tv/heart-trim.oggtheora.ogv" type="video/ogg">
+				<source src="media/tv/heart-trim.webmhd.webm" type="video/webm">
+			</video>
+			
+			<video id="tv4" width="186" height="140" preload="auto" loop="">
+				<source src="media/tv/leary-trim.mp4" type="video/mp4">
+				<source src="media/tv/leary-trim.oggtheora.ogv" type="video/ogg">
+				<source src="media/tv/leary-trim.webmhd.webm" type="video/webm">
+			</video>
+			
+			<video id="tv5" width="186" height="140" preload="auto" loop="">
+				<source src="media/tv/wwii-trim2.mp4" type="video/mp4">
+				<source src="media/tv/wwii-trim2.oggtheora.ogv" type="video/ogg">
+				<source src="media/tv/wwii-trim2.webmhd.webm" type="video/webm">
+			</video>
+			
+			<!-- background -->
+			<canvas id="canvasBG" width="1200" height="800" style="background:#000"></canvas>
+
+			<!-- insert movie clip here -->
+			<canvas id="canvasM1" width="350" height="330"></canvas>
+			<canvas id="canvasM2" width="1000" height="443"></canvas>
+			<canvas id="canvasM3" width="270" height="550"></canvas>
+			<canvas id="canvasTV" width="175" height="140"></canvas>
+			<!-- end movie clip here -->
+
+			<!-- foreground -->
+			<canvas id="canvasFG" width="1200" height="800"></canvas>
+			
+			<!-- transition canvas -->
+			<canvas id="canvasTransition" width="1200" height="800"></canvas>
+			<canvas id="canvasVT" width="1200" height="800"></canvas>
+			
+			<!-- menu canvas and curtains and stuff -->
+			<canvas id="canvasMenu" width="1200" height="800"></canvas>
+			
+			<!-- this canvas detects mouceclicks -->
+			<canvas id="canvasC" width="1200" height="800"></canvas>
+			
+			<!-- loading screen -->
+			<img id="loadingScreen" src="images/LoadingScreen-5.gif" width="1200" height="800" style="visibility: hidden; display: none;">
+			
+			<div id="frame"></div>
+		</div>
