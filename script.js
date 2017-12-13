@@ -1,6 +1,6 @@
 !This function will allow the viewer to play music when they click on an image!
 function playsong1(e){
-  document.getElementById("Hypnotize").play();
+  document.getElementById("poppa").play();
   document.getElementById("bigpoppa").pause();
   document.getElementById("momoney").pause();
 }
