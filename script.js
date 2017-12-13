@@ -1,25 +1,26 @@
 
 function playsong1(e){
-  document.getElementById("poppa").pause();
-  document.getElementById("momoney").pause();
-  document.getElementById("badboy").play();
- 
+	document.getElementById("badboy").play();
+	document.getElementById("bigpoppa2").pause();
+	document.getElementById("hypnotize").pause();
+	document.getElementById("missing").pause();
+	
 }
-function playsong2(e){
-  document.getElementById("badboy").pause();
-  document.getElementById("hypnotize").pause();
-  document.getElementById("momoney").pause();
+function play2song(e){
+	document.getElementById("bigpoppa2").play();
+	document.getElementById("badboy").pause();
+	document.getElementById("hypnotize").pause();
+	document.getElementById("missing").pause();
 }
 function playsong3(e){
-  document.getElementById("badboy").pause();
-  document.getElementById("momoney").pause();
-  document.getElementById("poppa").play();
- 
+	document.getElementById("hypnotize").play();
+	document.getElementById("bigpoppa2").pause();
+	document.getElementById("badboy").pause();
+	document.getElementById("missing").pause();
 }
 function playsong4(e){
-   document.getElementById("badboy").pause();
-  document.getElementById("poppa").pause();
-  document.getElementById("hypnotize").pause();
-  document.getElementById("momoney").play();
- 
+	document.getElementById("missing").play();
+	document.getElementById("hypnotize").pause();
+	document.getElementById("bigpoppa2").pause();
+	document.getElementById("badboy").pause();
 }
